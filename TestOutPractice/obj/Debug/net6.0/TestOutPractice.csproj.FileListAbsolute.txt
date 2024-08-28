@@ -1,0 +1,15 @@
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/bin/Debug/net6.0/TestOutPractice
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/bin/Debug/net6.0/TestOutPractice.deps.json
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/bin/Debug/net6.0/TestOutPractice.runtimeconfig.json
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/bin/Debug/net6.0/TestOutPractice.dll
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/bin/Debug/net6.0/TestOutPractice.pdb
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.csproj.AssemblyReference.cache
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.AssemblyInfoInputs.cache
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.AssemblyInfo.cs
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.csproj.CoreCompileInputs.cache
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.dll
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/refint/TestOutPractice.dll
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.pdb
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/TestOutPractice.genruntimeconfig.cache
+/Users/kaloob/Documents/Code/C#/TestOutPractice/TestOutPractice/obj/Debug/net6.0/ref/TestOutPractice.dll
